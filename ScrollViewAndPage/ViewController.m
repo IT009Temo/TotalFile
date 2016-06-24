@@ -11,6 +11,8 @@
 @interface ViewController ()
 {
     UIScrollView *scroll;
+    
+    NSString * name;
 }
 @end
 
